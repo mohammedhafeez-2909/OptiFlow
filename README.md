@@ -1,4 +1,11 @@
 # 📦 OptiFlow // Neural Inventory Engine
+<p align="center">
+  <img src="LOGIN.png" width="45%" />
+  <img src="DASHBOARD.png" width="45%" />
+</p>
+<p align="center">
+  <i>Fig 1. Neural Login Interface // Fig 2. OptiFlow Core Dashboard</i>
+</p>
 
 **OptiFlow** is a high-performance, full-stack inventory management system. It features a futuristic, dark-themed interface with real-time data handling, secure user authentication, and predictive stock analytics.
 
